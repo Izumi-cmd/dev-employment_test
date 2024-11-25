@@ -66,6 +66,7 @@ module.exports = {
     ],
     compress: false,
     port: 3000,
-    hot: true
+    hot: true,
+    host: '0.0.0.0'
   }
 }
